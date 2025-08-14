@@ -1,0 +1,23 @@
+# Large dataset files
+*.csv
+
+# Pickled model and scaler files
+*.pkl
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter notebooks (if any)
+*.ipynb
+
+# Log files
+*.log
+
+# Virtual environment
+tfvenv/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
